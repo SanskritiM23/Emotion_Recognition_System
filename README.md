@@ -1,4 +1,9 @@
-# Emotion_Recognition_System
-Six Human Emotions Detection App
-Overview
-This is a simple Streamlit web application for detecting six human emotions (Joy, Fear, Anger, Love, Sadness, Surprise). The app uses machine learing and deep learning models trained on preprocessed text data.
+# Six Human Emotions Detection App
+
+## Overview
+This is a Streamlit web application designed to detect six human emotions: Joy, Fear, Anger, Love, Sadness, and Surprise. The application employs machine learning and deep learning models trained on preprocessed text data to classify emotions.
+
+## Features
+- Allows users to input text for emotion detection.
+- Utilizes machine learning and deep learning models for accurate emotion classification.
+- Provides a user-friendly interface for easy interaction.
