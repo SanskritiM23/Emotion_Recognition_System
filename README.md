@@ -1,5 +1,6 @@
 ## Six Human Emotions Detection System
-![Image Description] C:\Users\Lenovo\Pictures\Screenshots\Screenshot (1201).png
+![System UI](https://drive.google.com/file/d/1P2kP4W5q5hrjR9G5jhwtRYQMsKDes4rN/view?usp=drive_link)
+
 
 
 ### Overview
