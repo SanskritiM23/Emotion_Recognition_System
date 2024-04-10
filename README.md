@@ -1,5 +1,4 @@
 ## Six Human Emotions Detection System
-![System UI](https://drive.google.com/file/d/1P2kP4W5q5hrjR9G5jhwtRYQMsKDes4rN/view?usp=drive_link)
 
 
 
