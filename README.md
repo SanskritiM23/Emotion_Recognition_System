@@ -1,4 +1,6 @@
 ## Six Human Emotions Detection System
+![Image Description] C:\Users\Lenovo\Pictures\Screenshots\Screenshot (1201).png
+
 
 ### Overview
 This system is designed to detect six human emotions (Joy, Fear, Anger, Love, Sadness, Surprise) from input text data. It incorporates both machine learning (ML) and deep learning (DL) models to accurately classify emotions.
